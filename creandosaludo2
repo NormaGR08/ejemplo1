@@ -1,0 +1,2 @@
+Nombre = "Jorge”
+Print (“hola”+nombre)
