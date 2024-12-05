@@ -1,2 +1,2 @@
-Nombre = "Ana”
+Nombre = "Lucas”
 Print (“hola”+nombre)
